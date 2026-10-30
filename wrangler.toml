@@ -1,0 +1,7 @@
+name = "my-test-bot"
+main = "creatorBot-worker.js"
+compatibility_date = "2026-10-30"
+
+[[kv_namespaces]]
+binding = "DB"
+id = "9f188a3e20764e97ac960d318125dc54"
